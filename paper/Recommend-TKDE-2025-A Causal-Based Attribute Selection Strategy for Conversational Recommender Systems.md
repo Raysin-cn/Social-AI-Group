@@ -1,5 +1,5 @@
 # Recommend-TKDE-2025-A Causal-Based Attribute Selection Strategy for Conversational Recommender Systems
-*论文下载地址：https://ieeexplore.ieee.org/document/10443112*
+*论文下载地址：https://ieeexplore.ieee.org/abstract/document/10891447*
 
 *代码是否开源：否*
 

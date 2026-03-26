@@ -1,5 +1,5 @@
-# 对话推荐系统-WWW-2025-Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems
-*论文下载地址：https://dl.acm.org/doi/10.1145/3696410.3714908*
+# Recommend-WWW-2025-Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems
+*论文下载地址：https://dl.acm.org/doi/10.1145/3589334.3645347*
 
 *代码是否开源：是 https://github.com/yaochenzhu/CRAG*
 
